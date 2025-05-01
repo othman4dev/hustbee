@@ -1,0 +1,12 @@
+# Hustbee Theme for WHMCS Configuration File
+
+name: "Hustbee Theme for WHMCS"
+description: "Hustbee - Html5 WHMCS Theme"
+author: "Brandio"
+properties:
+  serverSidePagination: false # Defines client side will handle pagination
+provides:
+  bootstrap: 3.4.1
+  jquery: 1.12.4
+  fontawesome: 5.10.1
+# WHMCS version 8.10.1
