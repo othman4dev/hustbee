@@ -139,7 +139,7 @@
                                 <div class="col-sm-7">
                                     <div class="b-text">Outstanding Web<br>Hosting for you.</div>
                                     <div class="m-text">Starting at only <span class="bold">$2.38/mo*</span></div>
-                                    <a href="#" class="hbtn hbtn-primary hbtn-lg">Hosting Services</a>
+                                    <a href="#" class="hbtn hbtn-primary hbtn-lg">Explore Server Plans</a>
                                 </div>
                             </div>
                         </div>
@@ -221,8 +221,36 @@
             </div>
             <div class="col-sm-7">
                 <div class="feature-info">
-                    <div class="feature-title">Hosting For Every Website</div>
-                    <div class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere euismod dui eget ultrices. Cras condimentum dui eget erat commodo, in venenatis eros blandit.</div>
+                    <div class="feature-title">Fast & Secure VPS and RDP Hosting</div>
+                    <div class="feature-text">Instantly deploy your virtual private server for business, browsing, or remote work. High-speed, full-access hosting.</div>
+                    <div class="feature-link"><a href="#" class="hbtn hbtn-default">View VPS & RDP Plans</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-5">
+                <div class="img-holder">
+                    <img src="{{assetPath file='feature2.png'}|replace:'/png/':'/images/'}" alt="">
+                </div>
+            </div>
+            <div class="col-sm-7 def-aligned">
+                <div class="feature-info">
+                    <div class="feature-title">Powerful Dedicated Servers</div>
+                    <div class="feature-text">Need maximum control and performance? Our dedicated servers are ready instantly perfect for heavy duty tasks or resellers.</div>
+                    <div class="feature-link"><a href="#" class="hbtn hbtn-default">Explore Dedicated Servers</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="row rtl-row">
+            <div class="col-sm-5">
+                <div class="img-holder">
+                    <img src="{{assetPath file='feature3.png'}|replace:'/png/':'/images/'}" alt="">
+                </div>
+            </div>
+            <div class="col-sm-7">
+                <div class="feature-info">
+                    <div class="feature-title">Scale Your Hosting With Confidence</div>
+                    <div class="feature-text">Whether you're launching your first project or expanding fast, our infrastructure grows with you hassle free.</div>
                     <div class="feature-link"><a href="#" class="hbtn hbtn-default">Get Started!</a></div>
                 </div>
             </div>
@@ -235,23 +263,9 @@
             </div>
             <div class="col-sm-7 def-aligned">
                 <div class="feature-info">
-                    <div class="feature-title">In a hurry? let’s start!</div>
-                    <div class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere euismod dui eget ultrices. Cras condimentum dui eget erat commodo, in venenatis eros blandit.</div>
-                    <div class="feature-link"><a href="#" class="hbtn hbtn-default">Get Started!</a></div>
-                </div>
-            </div>
-        </div>
-        <div class="row rtl-row">
-            <div class="col-sm-5">
-                <div class="img-holder">
-                    <img src="{{assetPath file='feature3.png'}|replace:'/png/':'/images/'}" alt="">
-                </div>
-            </div>
-            <div class="col-sm-7">
-                <div class="feature-info">
-                    <div class="feature-title">Grow with us</div>
-                    <div class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere euismod dui eget ultrices. Cras condimentum dui eget erat commodo, in venenatis eros blandit.</div>
-                    <div class="feature-link"><a href="#" class="hbtn hbtn-default">Get Started!</a></div>
+                    <div class="feature-title">Web Hosting & Domains</div>
+                    <div class="feature-text">We're expanding! Soon, you'll be able to host websites and register domains all in one place.</div>
+                    <div class="feature-link"><a href="#" class="hbtn hbtn-default">Stay Updated</a></div>
                 </div>
             </div>
         </div>

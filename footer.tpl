@@ -16,15 +16,15 @@
         <div class="col-sm-6 hylink-holder">
             <div class="hylink-box">
                 <div class="icon"><img src="{{assetPath file='info.svg'}|replace: '/svg/': '/images/'}" alt=""></div>
-                <a href="{$WEB_ROOT}/contact.php" class="link">Let’s talk</a>
-                <div class="text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem ccusantium.</div>
+                <a href="{$WEB_ROOT}/contact.php" class="link">Need Custom Solutions? Talk to Our Experts</a>
+                <div class="text">Get a free consultation for tailored VPS, RDP, or dedicated server setups. We’ll optimize your configuration for performance and budget.</div>
             </div>
         </div>
         <div class="col-sm-6 hylink-holder">
             <div class="hylink-box">
                 <div class="icon"><img src="{{assetPath file='chat.svg'}|replace: '/svg/': '/images/'}" alt=""></div>
-                <a href="{$WEB_ROOT}/clientarea.php" class="link">Go to support center</a>
-                <div class="text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem ccusantium.</div>
+                <a href="{$WEB_ROOT}/clientarea.php" class="link">24/7 Instant Support</a>
+                <div class="text">Find answers in our Knowledge Base or submit a ticket. Average response time: <15 minutes for critical issues.</div>
             </div>
         </div>
     </div>
