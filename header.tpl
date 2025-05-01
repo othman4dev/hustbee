@@ -137,8 +137,8 @@
                                     </div>
                                 </div>
                                 <div class="col-sm-7">
-                                    <div class="b-text">Outstanding Web<br>Hosting for you.</div>
-                                    <div class="m-text">Starting at only <span class="bold">$2.38/mo*</span></div>
+                                    <div class="b-text">High-Performance VPS & RDP Hosting.</div>
+                                    <div class="m-text">Instant Setup · Global Locations · From only <bold>€7.50/mo</bold></div>
                                     <a href="#" class="hbtn hbtn-primary hbtn-lg">Explore Server Plans</a>
                                 </div>
                             </div>
