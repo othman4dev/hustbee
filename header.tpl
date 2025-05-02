@@ -169,7 +169,10 @@
                     </div>
                   </div>
                   <div class="col-sm-7">
-                    <div class="b-text" style="font-size: 55px">
+                    <div
+                      class="b-text"
+                      style="font-size: 55px; margin-bottom: 10px"
+                    >
                       High-Performance VPS, RDP & Dedicated Servers.
                     </div>
                     <p class="m-text">
