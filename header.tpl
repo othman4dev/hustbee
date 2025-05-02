@@ -175,7 +175,7 @@
                     >
                       High-Performance VPS, RDP & Dedicated Servers.
                     </div>
-                    <p class="m-text">
+                    <p class="m-text" style="margin-bottom: 20px">
                       Scalable hosting solutions for businesses and
                       professionals.
                     </p>
