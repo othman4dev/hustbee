@@ -172,7 +172,7 @@
                     <div class="b-text">
                       High-Performance VPS, RDP & Dedicated Servers.
                     </div>
-                    <p>
+                    <p style="color: #fff; font-size: 1.5rem">
                       Scalable hosting solutions for businesses and
                       professionals.
                     </p>
